@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b7c2485-4a84-4534-89a1-5a1912b5f326" name="Default Changelist" comment="scss">
-      <change afterPath="$PROJECT_DIR$/style.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/watcherTasks.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn-error.log" beforeDir="false" afterPath="$PROJECT_DIR$/yarn-error.log" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -23,8 +20,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-2300">
-                  <caret line="34" column="18" selection-start-line="34" selection-start-column="18" selection-end-line="34" selection-end-column="18" />
+                <state relative-caret-position="374">
+                  <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
                 </state>
               </provider>
             </entry>
@@ -36,8 +33,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/style.less">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1913">
-                  <caret line="1052" column="10" lean-forward="true" selection-start-line="1052" selection-start-column="10" selection-end-line="1052" selection-end-column="10" />
+                <state relative-caret-position="179">
+                  <caret line="1025" selection-start-line="1025" selection-end-line="1033" />
                 </state>
               </provider>
             </entry>
@@ -180,12 +177,12 @@
       <workItem from="1552577960333" duration="3480000" />
       <workItem from="1552584307142" duration="87000" />
       <workItem from="1552584427096" duration="1818000" />
-      <workItem from="1552586528390" duration="718000" />
+      <workItem from="1552586528390" duration="2325000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="127795000" />
+    <option name="totallyTimeSpent" value="129402000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -197,7 +194,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.117492095" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -211,8 +208,8 @@
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49947312" weight="0.32792208" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49051633" weight="0.29761904" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="10" sideWeight="0.5094837" side_tool="true" visible="true" weight="0.29761904" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.49051633" visible="true" weight="0.29761904" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5094837" side_tool="true" weight="0.29761904" />
       <window_info active="true" anchor="bottom" id="Messages" order="11" visible="true" weight="0.32900432" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -248,13 +245,6 @@
     <entry file="file://$PROJECT_DIR$/yarn.lock">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2300">
-          <caret line="34" column="18" selection-start-line="34" selection-start-column="18" selection-end-line="34" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="842">
@@ -275,8 +265,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/style.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1913">
-          <caret line="1052" column="10" lean-forward="true" selection-start-line="1052" selection-start-column="10" selection-end-line="1052" selection-end-column="10" />
+        <state relative-caret-position="179">
+          <caret line="1025" selection-start-line="1025" selection-end-line="1033" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
         </state>
       </provider>
     </entry>
